@@ -1,0 +1,32 @@
+﻿  main.cpp
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x68 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x69 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x6c 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x6d 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x6e 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x72 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x73 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\util.h(1,1): warning C4828: 文件包含在偏移 0x77 处开始的字符，该字符在当前源字符集中无效(代码页 65001)。
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\Rectangle.h(68,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\VS项目\EasyX-期末大作业\Circle.h(52,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+  EasyX-期末大作业.vcxproj -> D:\VS项目\EasyX-期末大作业\x64\Debug\EasyX-期末大作业.exe
